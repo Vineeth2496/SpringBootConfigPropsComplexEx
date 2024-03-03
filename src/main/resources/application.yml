@@ -1,0 +1,18 @@
+data:
+  app:
+    emp:
+      eid: 10
+      ename: Kartherine
+      esal: 5.5
+      projs:
+      - IT
+      - E
+      - F
+      modules:
+        M1: 3.3
+        M2: 4.3
+        M3: 5.6
+      addr:
+        aid: 70
+        loc: HYD
+        pin: 505326
